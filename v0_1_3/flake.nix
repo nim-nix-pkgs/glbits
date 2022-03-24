@@ -1,5 +1,5 @@
 {
-  description = ''A light interface and selection of utilities for working with OpenGL and SDL2'';
+  description = ''A light interface to OpenGL shaders, VBOs, and VAOs'';
 
   inputs.flakeNimbleLib.owner = "riinr";
   inputs.flakeNimbleLib.ref   = "master";

@@ -11,7 +11,6 @@
   inputs.src-glbits-v0_1_1.ref   = "refs/tags/v0.1.1";
   inputs.src-glbits-v0_1_1.owner = "rlipsc";
   inputs.src-glbits-v0_1_1.repo  = "glbits";
-  inputs.src-glbits-v0_1_1.dir   = "";
   inputs.src-glbits-v0_1_1.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
